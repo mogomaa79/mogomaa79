@@ -1,6 +1,6 @@
 - Hey there! I'm [Gomaa](https://www.linkedin.com/in/mohamed-gomaa-1a8540287/)
-- I'm interested in Data Science, Machine Learning, LLMs
-- I am AI Business Analyst @Maids.cc
+- I'm interested in Data Science, Machine Learning, and LLMs
+- I am an AI Business Analyst @Maids.cc
 
 <div align='center'>
   <picture>
