@@ -7,5 +7,5 @@
   <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs?username=mogomaa79&theme=transparent&layout=donut&hide=css,php,ClassASP&langs_count=2&border_radius=10&show_icons=true&locale=en" alt="Gomaa's Most Used Languages" />
 </div>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=XiaomingX&theme=xcode&hide_border=true" alt="Activity graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mogomaa79&theme=xcode&hide_border=true" alt="Activity graph">
 </a>
